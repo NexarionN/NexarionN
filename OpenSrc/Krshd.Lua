@@ -2759,7 +2759,7 @@ end))
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/khen791/script-khen/refs/heads/main/hahkiki.txt"))(); -- creds to portal
 
 do
-    local window = library:Window({Name = [[NexarioN <font color="rgb(255,209,220)">.lua</font>]], Size = Vector2.new(300,380)});
+    local window = library:Window({Name = [[KrxShed <font color="rgb(255,209,220)">.Cfg</font>]], Size = Vector2.new(300,380)});
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Parent = game:GetService("CoreGui")
 ScreenGui.ResetOnSpawn = false
