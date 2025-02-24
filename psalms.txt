@@ -10,7 +10,7 @@ if getgenv().executed then
         return  
     end
    getgenv().executed = true
-print("hi")
+print("Go back to the zoo lil ape")
 
 local startTime = os.clock()
 
